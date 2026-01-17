@@ -10,5 +10,3 @@ output: pdf_document
 ## Exercise 0.7 - Course Participant Introduction
 
 Howdy! I'm Jalyn Gearries, and I'm a third-year PhD student in Ecoinformatics. I work with Dr. Teki Sankey in the Remote Sensing and Geoinformatics Lab, and I am using in situ plots and remote sensing data to monitor vegetation and treatment efficacy in riparian ecosystems along the Colorado River in Grand Canyon National Park. 
-
-
